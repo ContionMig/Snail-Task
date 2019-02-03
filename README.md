@@ -26,3 +26,5 @@ If the snail can reach the top of the well (i.e. height H) for the first time on
 day D, your output should be D followed by P.
 Otherwise, if the snail will always be stuck in the well, your output should be −1 followed
 by −1.
+
+Credits / More: [GitHub](https://github.com/ranaldmiao/sg_noi_archive)
