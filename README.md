@@ -1,5 +1,5 @@
 # Snail-Task
-[[My Website]](http://sagaanpillai.com/)
+[[My Website]](https://mitsuzi.xyz/)
 
 A snail is stuck at the bottom of a well which is of height H. Initially, the snail is at height 0
 and it tries to get out. Well, being at the bottom (i.e., height 0) has its upsides. For instance, the
